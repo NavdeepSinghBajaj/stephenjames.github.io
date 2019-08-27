@@ -2,32 +2,8 @@
 	"applinks": {
 		"apps": [],
 		"details": [{
-			"appID": "au.com.qual.mytelstradebug",
-			"paths": [
-
-				"/services",
-				"/services/service-summary",
-				"/services/disconnect-service",
-
-				"/payments",
-				"/payments/bills",
-				"payments/payment-history",
-				"payments/payment-details",
-
-				"/explore",
-
-				"/get-help",
-				"/get-help/orders",
-				"/get-help/order-history",
-				"/get-help/order-details",
-
-				"/profile",
-				"/profile/update-personal-details",
-				"/profile/payment-settings",
-				"/profile/sign-in-details",
-				"/profile/shared-access",
-				"/profile/marketing"
-			]
+			"appID": "WX7MVUN5ZX.com.telstra.dev.mytelstra.dep.linking",
+			"paths": ["*"]
 		}]
 	}
 }
