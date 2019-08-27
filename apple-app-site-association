@@ -3,7 +3,14 @@
 		"apps": [],
 		"details": [{
 			"appID": "WX7MVUN5ZX.com.telstra.dev.mytelstra.dep.linking",
-			"paths": ["*"]
+			"paths": [
+			"/profile",
+			"/services",
+			"/payments",
+			"/explore",
+			"/getHelp",
+			"/"
+			]
 		}]
 	}
 }
