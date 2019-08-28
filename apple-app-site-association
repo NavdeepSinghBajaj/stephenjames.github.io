@@ -9,7 +9,7 @@
 			"/payments",
 			"/explore",
 			"/getHelp",
-			"/"
+			"*"
 			]
 		}]
 	}
