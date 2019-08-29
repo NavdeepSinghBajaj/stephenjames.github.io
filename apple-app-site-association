@@ -1,16 +1,16 @@
 {
 	"applinks": {
 		"apps": [],
-		"details": [{
+		"details": [
+		{
 			"appID": "WX7MVUN5ZX.com.telstra.dev.mytelstra.dep.linking",
 			"paths": [
-			"/profile",
-			"/services",
-			"/payments",
-			"/explore",
-			"/get-help",
-			"*"
-			]
-		}]
+			"/m/profile/*",
+			"/m/services/*",
+			"/m/payments/*",
+			"/m/explore/*",
+			"/m/get-help/*"			]
+		}
+		]
 	}
 }
