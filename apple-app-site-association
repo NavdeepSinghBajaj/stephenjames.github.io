@@ -6,7 +6,7 @@
 			"appID": "WX7MVUN5ZX.com.telstra.dev.mytelstra.dep.linking",
 			"paths":[
 				"/services",
-				"/services/service-summary",
+				"/services/service-summary/*",
 				"/services/disconnect-service",
 				"/payments",
 				"/payments/bills",
