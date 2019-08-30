@@ -4,12 +4,26 @@
 		"details": [
 		{
 			"appID": "WX7MVUN5ZX.com.telstra.dev.mytelstra.dep.linking",
-			"paths": [
-			"/m/profile/*",
-			"/m/services/*",
-			"/m/payments/*",
-			"/m/explore/*",
-			"/m/get-help/*"			]
+			"paths":[
+				"/services",
+				"/services/service-summary",
+				"/services/disconnect-service",
+				"/payments",
+				"/payments/bills",
+				"/payments/payment-history",
+				"/payments/payment-details",
+				"/explore",
+				"/get-help",
+				"/orders",
+				"/orders/order-history",
+				"/orders/order-details/*",
+				"/profile",
+				"/profile/update-personal-details",
+				"/profile/payment-settings",
+				"/profile/sign-in-details",
+				"/profile/shared-access",
+				"/profile/marketing"
+			]
 		}
 		]
 	}
