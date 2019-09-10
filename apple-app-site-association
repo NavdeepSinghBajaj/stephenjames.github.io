@@ -1,30 +1,157 @@
 {
+	"webcredentials": {
+		"apps": [
+			"P3EY7F2697.com.telstra.telstra24x7iphone",
+			"M7T5YNZ969.com.telstra.telstra24x7dev.phone.pvt",
+			"M7T5YNZ969.com.telstra.telstra24x7dev.phone.beta",
+			"M7T5YNZ969.com.telstra.telstra24x7dev.phone.staging",
+			"M7T5YNZ969.com.telstra.telstra24x7dev.phone.uat", 
+			"M7T5YNZ969.com.telstra.telstra24x7dev.phone.frankified",
+			"P3EY7F2697.com.telstra.telstraair",
+			"M7T5YNZ969.com.telstra.telstraairdev",
+			"P3EY7F2697.com.telstra.wifimaximiser",
+			"M7T5YNZ969.com.telstra.telstra24x7dev.homedashboard",
+			"M7T5YNZ969.com.telstra.dev.mytelstra",
+			"P3EY7F2697.com.telstra.mytelstra"
+		]
+	},
 	"applinks": {
 		"apps": [],
-		"details": [
-		{
-			"appID": "WX7MVUN5ZX.com.telstra.dev.mytelstra.dep.linking",
-			"paths":[
-				"/services",
-				"/services/service-summary/*",
-				"/services/disconnect-service",
-				"/payments",
-				"/payments/bills",
-				"/payments/payment-history",
-				"/payments/payment-details",
-				"/explore",
-				"/get-help",
-				"/orders",
-				"/orders/order-history",
-				"/orders/order-details/*",
-				"/profile",
-				"/profile/update-personal-details",
-				"/profile/payment-settings",
-				"/profile/sign-in-details",
-				"/profile/shared-access",
-				"/profile/marketing"
-			]
-		}
+		"details": [{
+				"appID": "M7T5YNZ969.com.telstra.dev.mytelstra",
+				"paths": [
+					"/services",
+					"/services/service-summary",
+					"/services/disconnect-service",
+
+					"/payments",
+					"/payments/bills",
+					"payments/payment-history",
+					"payments/payment-details",
+
+					"/explore",
+
+					"/get-help",
+					"/get-help/orders",
+					"/get-help/order-history",
+					"/get-help/order-details/*",
+
+					"/profile",
+					"/profile/update-personal-details",
+					"/profile/payment-settings",
+					"/profile/sign-in-details",
+					"/profile/shared-access",
+					"/profile/marketing"
+				]
+			},
+			{
+				"appID": "P3EY7F2697.com.telstra.mytelstra",
+				"paths": [
+					"/services",
+					"/services/service-summary",
+					"/services/disconnect-service",
+
+					"/payments",
+					"/payments/bills",
+					"payments/payment-history",
+					"payments/payment-details",
+
+					"/explore",
+
+					"/get-help",
+					"/get-help/orders",
+					"/get-help/order-history",
+					"/get-help/order-details/*",
+
+					"/profile",
+					"/profile/update-personal-details",
+					"/profile/payment-settings",
+					"/profile/sign-in-details",
+					"/profile/shared-access",
+					"/profile/marketing"
+				]
+			},
+			{
+				"appID": "P3EY7F2697.com.telstra.telstra24x7iphone",
+				"paths": [
+					"/services",
+					"/services/service-summary",
+					"/services/disconnect-service",
+
+					"/payments",
+					"/payments/bills",
+					"payments/payment-history",
+					"payments/payment-details",
+
+					"/explore",
+
+					"/get-help",
+					"/get-help/orders",
+					"/get-help/order-history",
+					"/get-help/order-details/*",
+
+					"/profile",
+					"/profile/update-personal-details",
+					"/profile/payment-settings",
+					"/profile/sign-in-details",
+					"/profile/shared-access",
+					"/profile/marketing"
+				]
+			},
+			{
+				"appID": "M7T5YNZ969.com.telstra.telstra24x7dev.phone.uat",
+				"paths": [
+					"/services",
+					"/services/service-summary",
+					"/services/disconnect-service",
+
+					"/payments",
+					"/payments/bills",
+					"payments/payment-history",
+					"payments/payment-details",
+
+					"/explore",
+
+					"/get-help",
+					"/get-help/orders",
+					"/get-help/order-history",
+					"/get-help/order-details/*",
+
+					"/profile",
+					"/profile/update-personal-details",
+					"/profile/payment-settings",
+					"/profile/sign-in-details",
+					"/profile/shared-access",
+					"/profile/marketing"
+				]
+			},
+			{
+				"appID": "WX7MVUN5ZX.au.com.qual.mytelstradebug",
+				"paths": [
+					"/services",
+					"/services/service-summary",
+					"/services/disconnect-service",
+
+					"/payments",
+					"/payments/bills",
+					"payments/payment-history",
+					"payments/payment-details",
+
+					"/explore",
+
+					"/get-help",
+					"/get-help/orders",
+					"/get-help/order-history",
+					"/get-help/order-details/*",
+
+					"/profile",
+					"/profile/update-personal-details",
+					"/profile/payment-settings",
+					"/profile/sign-in-details",
+					"/profile/shared-access",
+					"/profile/marketing"
+				]
+			}
 		]
 	}
 }
